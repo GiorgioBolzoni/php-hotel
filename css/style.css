@@ -1,0 +1,35 @@
+/* general */
+
+
+:root {
+    --ms-orange: #F28705;
+    --ms-yellow: #D9CF43;
+    --ms-green: #395873;
+    --ms-dark: #010440;
+    --ms-primary: #7302178a;
+    --ms-light: #ffffff;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: var(--ms-green);
+}
+h1{
+    font-size: 3em;
+    font-weight: 600;
+    color: var(--ms-yellow);
+}
+form{
+    background-color: var(--ms-orange);
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px black;
+
+}
+.table{
+    box-shadow: 2px 2px 5px black;
+}
+
+
+
+
